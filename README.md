@@ -1,6 +1,10 @@
 # Ideas-Competition
 This is our submission for Data Visualization Competition
 
+# Our Team
+Ikhwan Alif
+Sahrial Ihsani
+
 # Theme
 We choose SDG Sustainable Development Goals Point 8 Theme (Decent Work and Economic Growth)
 
